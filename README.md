@@ -3,8 +3,7 @@
 
 * .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
 * README.md file itself to show the contrens of this repo. It acts a homepage of this repo
-* All of math methods located in the *src* folder to support for the math calculation in your project. Feel free to use them.
-*(TBA...)
+* The look and feel of a normal sales site and it has CRUD, shopping cart and checkout
 #### Connect me via:
 [My facebook](https://facebook.com/voxquoocshuyy)  
 [My email](mailto: voquochuy1502@gmail.com)
