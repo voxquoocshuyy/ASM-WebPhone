@@ -1,4 +1,4 @@
-## Welcome to my project repository.
+# Welcome to my project repository.
 ### *_You will find in this repo the following stuff:_*
 #### Author
 Vo Quoc Huy - SE141048
