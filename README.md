@@ -6,19 +6,18 @@ Vo Quoc Huy - SE141048
 #### Editor used
 Netbeans 8.2RC <br>
 SQL Server 2014 Management Studio <br>
-VS Code <br>
+VS Code 
 #### Used language
 Java <br>
 SQL <br>
 HTML <br>
 CSS <br>
-JS <br>
+JS
 #### Implemented technology
-Java JDK15
-Bootstrap 4
+Java JDK15 <br>
+Bootstrap 4 <br>
 Login with Facebook API
-* .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
-* README.md file itself to show the contrens of this repo. It acts a homepage of this repo
+
 #### Connect me via:
 [My facebook](https://facebook.com/voxquoocshuyy)  
 [My email](gmailto: voquochuy1502@gmail.com)<br>
