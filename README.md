@@ -1,19 +1,19 @@
 ## Welcome to my project repository.
 ### *_You will find in this repo the following stuff:_*
-####Author
+#### Author
 Vo Quoc Huy - SE141120
 
-####Editor used
+#### Editor used
 Netbeans 8.2RC
 SQL Server 2014 Management Studio
 VS Code
-####Used language
+#### Used language
 Java
 SQL
 HTML
 CSS
 JS
-####Implemented technology
+#### Implemented technology
 Java JDK15
 Bootstrap 4
 Login with Facebook API
