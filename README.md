@@ -4,15 +4,15 @@
 Vo Quoc Huy - SE141048
 
 #### Editor used
-Netbeans 8.2RC
-SQL Server 2014 Management Studio
-VS Code
+Netbeans 8.2RC <br>
+SQL Server 2014 Management Studio <br>
+VS Code <br>
 #### Used language
-Java
-SQL
-HTML
-CSS
-JS
+Java <br>
+SQL <br>
+HTML <br>
+CSS <br>
+JS <br>
 #### Implemented technology
 Java JDK15
 Bootstrap 4
